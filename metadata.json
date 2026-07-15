@@ -1,0 +1,6 @@
+{
+  "name": "ChatATM",
+  "description": "An AI-powered multilingual chat assistant with voice features, OCR document scanning, sentiment analysis, and advanced translation capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
